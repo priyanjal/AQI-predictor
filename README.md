@@ -1,0 +1,1 @@
+In this Project under the guidance of krish Naik, I have executed few Machine Learning models to choose the best AQI Predictor model, First was to scarp data from webpages export the data in csv and then combine all the data together to do multiple regression models 
